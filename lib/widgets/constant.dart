@@ -1,0 +1,6 @@
+import 'dart:ui';
+
+Color primaryColor= const Color(0xFF1E576C);
+Color primaryColor2= const Color(0xFFBCE9F4);
+String tokenT= 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgzNDY2MjUsImlhdCI6MTcwODMzOTQyNSwicm9sZSI6InVzZXIiLCJ1c3IiOiJncHNfcHJvamVjdCJ9.669zosIUkNT1KskvT7EmmODlzxu963FA0IRja8xst6E';
+String tokenL= 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDgzNDY2MjUsImlhdCI6MTcwODMzOTQyNSwicm9sZSI6InVzZXIiLCJ1c3IiOiJncHNfcHJvamVjdCJ9.669zosIUkNT1KskvT7EmmODlzxu963FA0IRja8xst6E';

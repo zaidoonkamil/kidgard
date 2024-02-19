@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613396869921",
+    "project_id": "kidgard-2411",
+    "storage_bucket": "kidgard-2411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613396869921:android:17f2bac2bbefdcb4c50460",
+        "android_client_info": {
+          "package_name": "com.example.abd_hajer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTOFlcvfGCeF2UpUhULhSVAF3CYiocCXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613396869921:android:0ec36e010096af13c50460",
+        "android_client_info": {
+          "package_name": "com.example.abdhajer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTOFlcvfGCeF2UpUhULhSVAF3CYiocCXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
