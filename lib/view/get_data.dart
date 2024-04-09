@@ -241,8 +241,8 @@ class _GetDataState extends State<GetData> {
                                 const Marker(
                                   markerId: MarkerId("1"),
                                   position: LatLng(
-                                    33.604040,
-                                    43.848570 ,
+                                    33.682932,
+                                    44.600593,
                                   ),
                                   infoWindow: InfoWindow(title: 'موقع الطفل'),
                                 ),

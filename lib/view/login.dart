@@ -29,6 +29,7 @@ class _LogInState extends State<LogIn> {
         email: LogIn.userNameController.text,
         password: LogIn.passwordController.text,
       );
+      showToast(text: 'login was completed successfully', color: Colors.green);
       CacheHelper.saveData(key: 'token',value: userCredential.user!.uid.toString());
       navigateAndFinish(context, const Home());
     } catch (e) {

@@ -41,7 +41,7 @@ class _RegisterState extends State<Register> {
         'email': Register.emailController.text,
         'gender': Register.genderController.text,
       });
-
+      showToast(text: 'account creation was completed successfully', color: Colors.green);
       navigateAndFinish(context, const LogIn());
     } catch (e) {
       showToast(text: e.toString(), color: Colors.red);
